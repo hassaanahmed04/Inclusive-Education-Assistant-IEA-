@@ -7,7 +7,7 @@ from adaptive_learning import adaptive_learning_section
 from assistive_technologies import assistive_technologies_section
 from collaboration_support import collaboration_support_section
 from openai import OpenAI
-client=OpenAI(api_key="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")
+client=OpenAI(api_key="")
 
 # Initialize the OpenAI client
 
