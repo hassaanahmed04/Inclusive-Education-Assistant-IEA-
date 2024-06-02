@@ -1,0 +1,5 @@
+streamlit
+speechrecognition
+pydub
+openai
+pybase64
